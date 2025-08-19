@@ -1,0 +1,182 @@
+/* /Components/Controls.razor.rz.scp.css */
+.function-panel[b-40nb3cc1n0] {
+    display: flex;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: repeat(3, 1fr);
+    gap: 0.5rem;
+    height: 100%;
+    justify-items: stretch;
+    align-items: stretch;
+    
+}
+.control-symbol[b-40nb3cc1n0] {
+    font-size: 1.5em;
+}
+
+.control-key[b-40nb3cc1n0] {
+    flex: 1; /* Each key will grow and shrink equally to fill the space */
+    margin-bottom: 0.25vw;
+    margin-top: 0.25vw;
+    margin-left: 0.5vw;
+    margin-right: 0.5vw;
+    font-size: 1em;
+}
+
+.function-panel.left[b-40nb3cc1n0] {
+    align-items: flex-start;
+}
+
+.function-panel.right[b-40nb3cc1n0] {
+    align-items: flex-end;
+}
+/* /Components/Keyboard.razor.rz.scp.css */
+.keyboard-container[b-tijmg2dq23] {
+    display: flex;
+    flex-direction: column;
+    gap: 20px; /* This creates the large vertical space between rows */
+    width: 100%;
+    max-width: 1800px; /* Prevent it from getting too wide on large screens */
+    margin: auto; /* Center the keyboard */
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+.keyboard-row-container[b-tijmg2dq23] {
+    /* Each container holds a prediction row and a key row */
+    flex-grow: 1;
+}
+
+.prediction-row[b-tijmg2dq23], .key-row[b-tijmg2dq23] {
+    display: flex; /* This is the core of the responsive layout! */
+    justify-content: center; /* Center keys in the row */
+    gap: 0.5vw; /* Space between individual keys/slots */
+    width: 100%;
+}
+
+.prediction-row[b-tijmg2dq23] {
+    min-height: 60px; /* Reserve space for 2 rows of predictions */
+    margin-bottom: 0.5vw; /* Small gap between predictions and keys */
+}
+
+.prediction-slot[b-tijmg2dq23] {
+    flex: 1; /* Each slot takes up the same space as the key below it */
+    display: flex;
+    flex-direction: column-reverse; /* Puts the first prediction at the bottom */
+    align-items: center;
+    justify-content: flex-start; /* Aligns predictions to the top of the slot */
+    gap: 0.5vw;
+}
+
+
+/* /Components/SettingsModal.razor.rz.scp.css */
+/* GenieUI/wwwroot/css/app.css */
+.modal-backdrop[b-7c3d2tuhgl] {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(190,190,190,0.3); /* Lower opacity for better blur effect */
+    backdrop-filter: blur(10px); /* This applies the blur */
+    -webkit-backdrop-filter: blur(10px); /* For Safari support */
+    z-index: 1000;
+}
+
+.modal[b-7c3d2tuhgl] {
+    position: fixed;
+    display: block;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 2rem;
+    border-radius: 8px;
+    box-shadow: 0 2px 16px rgba(0,0,0,0.3);
+    z-index: 1001;
+    min-width: 320px;
+}
+
+.savebtn:hover[b-7c3d2tuhgl] {
+    background-color: limegreen;
+}
+
+.closebtn:hover[b-7c3d2tuhgl] {
+    background-color: red;
+}
+/* /Layout/MainLayout.razor.rz.scp.css */
+.page[b-70h2ho54as] {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+}
+
+main[b-70h2ho54as] {
+    flex: 1;
+}
+
+.sidebar[b-70h2ho54as] {
+    background-image: linear-gradient(180deg, rgb(5, 39, 103) 0%, #3a0647 70%);
+}
+
+.top-row[b-70h2ho54as] {
+    background-color: #f7f7f7;
+    border-bottom: 1px solid #d6d5d5;
+    justify-content: flex-end;
+    height: 3.5rem;
+    display: flex;
+    align-items: center;
+}
+
+    .top-row[b-70h2ho54as]  a, .top-row[b-70h2ho54as]  .btn-link {
+        white-space: nowrap;
+        margin-left: 1.5rem;
+        text-decoration: none;
+    }
+
+    .top-row[b-70h2ho54as]  a:hover, .top-row[b-70h2ho54as]  .btn-link:hover {
+        text-decoration: underline;
+    }
+
+    .top-row[b-70h2ho54as]  a:first-child {
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+
+@media (max-width: 640.98px) {
+    .top-row[b-70h2ho54as] {
+        justify-content: space-between;
+    }
+
+    .top-row[b-70h2ho54as]  a, .top-row[b-70h2ho54as]  .btn-link {
+        margin-left: 0;
+    }
+}
+
+@media (min-width: 641px) {
+    .page[b-70h2ho54as] {
+        flex-direction: row;
+    }
+
+    .sidebar[b-70h2ho54as] {
+        width: 250px;
+        height: 100vh;
+        position: sticky;
+        top: 0;
+    }
+
+    .top-row[b-70h2ho54as] {
+        position: sticky;
+        top: 0;
+        z-index: 1;
+    }
+
+    .top-row.auth[b-70h2ho54as]  a:first-child {
+        flex: 1;
+        text-align: right;
+        width: 0;
+    }
+
+    .top-row[b-70h2ho54as], article[b-70h2ho54as] {
+        padding-left: 2rem !important;
+        padding-right: 1.5rem !important;
+    }
+}

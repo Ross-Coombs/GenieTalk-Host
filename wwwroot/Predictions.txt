@@ -1,0 +1,1090 @@
+﻿#level,context,prediction,frequency
+1,"","we",42
+1,"","if",38
+1,"","my",27
+1,"","so",49
+1,"","but",33
+1,"","when",21
+1,"","this",48
+1,"","how",45
+1,"","was",47
+1,"","at",31
+1,"","with",44
+1,"","he",28
+1,"","be",37
+1,"","not",41
+1,"","me",25
+1,"","have",49
+1,"","do",29
+1,"","as",36
+1,"","your",40
+1,"","she",22
+1,"","from",35
+1,"","an",43
+1,"","all",48
+1,"","said",19
+1,"","will",46
+1,"","or",32
+1,"","would",38
+1,"","there",47
+1,"","what",49
+1,"","get",24
+1,"","can",41
+1,"","go",30
+1,"","about",44
+1,"","out",26
+1,"","up",33
+1,"","her",28
+1,"","him",21
+1,"","know",45
+1,"","time",39
+1,"","just",42
+1,"","see",31
+1,"","no",27
+1,"","like",47
+1,"","could",34
+1,"","one",49
+1,"","people",36
+1,"","then",29
+1,"","did",18
+1,"","more",40
+1,"","good",43
+1,"","some",37
+1,"","new",31
+1,"","them",25
+1,"","make",38
+1,"","other",46
+1,"","now",33
+1,"","day",29
+1,"","come",35
+1,"","down",22
+1,"","work",41
+1,"","also",28
+1,"","first",47
+1,"","because",39
+1,"","use",24
+1,"","into",32
+1,"","think",48
+1,"","even",30
+1,"","its",44
+1,"","our",37
+1,"","want",42
+1,"","way",46
+1,"","look",38
+1,"","right",49
+1,"","find",26
+1,"","here",34
+1,"","thing",41
+1,"","over",23
+1,"","long",28
+1,"","back",45
+1,"","part",19
+1,"","must",27
+1,"","need",47
+1,"","feel",35
+1,"","much",40
+1,"","ask",21
+1,"","try",39
+1,"","call",25
+1,"","keep",36
+1,"","let",48
+1,"","put",31
+1,"","help",43
+1,"","start",37
+1,"","play",29
+1,"","move",22
+1,"","live",28
+1,"","believe",34
+1,"","remember",30
+1,"","write",24
+1,"","read",27
+1,"","talk",33
+1,"","watch",26
+1,"","stop",20
+1,"","pay",18
+1,"","meet",31
+1,"","send",23
+1,"","give",39
+2,"about","it",45
+2,"about","the",31
+2,"after","all",28
+2,"after","that",34
+2,"all","of",49
+2,"all","the",42
+2,"all","right",35
+2,"am","i",22
+2,"am","not",48
+2,"an","apple",19
+2,"an","hour",31
+2,"an","idea",40
+2,"and","i",47
+2,"and","so",41
+2,"and","then",46
+2,"and","the",49
+2,"any","other",33
+2,"any","time",28
+2,"are","not",42
+2,"are","the",38
+2,"are","we",30
+2,"are","you",47
+2,"as","a",49
+2,"as","i",41
+2,"as","if",27
+2,"as","long",39
+2,"as","much",43
+2,"as","soon",48
+2,"as","well",46
+2,"at","a",38
+2,"at","all",44
+2,"at","home",36
+2,"at","least",47
+2,"at","the",49
+2,"at","work",31
+2,"be","a",45
+2,"be","able",42
+2,"be","careful",37
+2,"be","in",33
+2,"be","on",29
+2,"be","the",48
+2,"be","there",40
+2,"because","of",46
+2,"because","it",41
+2,"because","i",38
+2,"been","a",35
+2,"before","i",31
+2,"before","the",43
+2,"best","friend",39
+2,"best","regards",45
+2,"big","deal",32
+2,"but","i",48
+2,"but","it",44
+2,"but","that",38
+2,"but","the",42
+2,"by","the",49
+2,"by","now",27
+2,"can","be",43
+2,"can","do",39
+2,"can","get",34
+2,"can","i",47
+2,"can","we",40
+2,"cant","believe",46
+2,"cant","do",31
+2,"cant","wait",49
+2,"come","back",41
+2,"come","on",45
+2,"could","be",44
+2,"could","i",30
+2,"did","not",47
+2,"did","you",45
+2,"do","i",28
+2,"do","it",43
+2,"do","not",49
+2,"do","you",48
+2,"dont","know",49
+2,"dont","think",46
+2,"dont","want",44
+2,"dont","worry",42
+2,"down","the",41
+2,"down","to",35
+2,"each","other",40
+2,"even","if",37
+2,"even","though",41
+2,"every","day",45
+2,"every","time",38
+2,"feel","like",46
+2,"find","out",43
+2,"first","of",48
+2,"first","time",44
+2,"for","a",49
+2,"for","all",36
+2,"for","example",47
+2,"for","me",42
+2,"for","my",39
+2,"for","the",49
+2,"for","this",40
+2,"for","you",48
+2,"from","a",37
+2,"from","me",29
+2,"from","the",49
+2,"from","time",34
+2,"get","a",43
+2,"get","back",38
+2,"get","it",40
+2,"get","out",35
+2,"get","ready",32
+2,"get","some",30
+2,"get","to",46
+2,"give","it",37
+2,"give","me",44
+2,"go","back",36
+2,"go","for",31
+2,"go","home",39
+2,"go","on",34
+2,"go","to",49
+2,"going","to",49
+2,"good","day",41
+2,"good","idea",45
+2,"good","job",43
+2,"good","luck",40
+2,"good","morning",47
+2,"good","night",42
+2,"got","a",38
+2,"got","it",33
+2,"had","a",41
+2,"had","to",39
+2,"has","a",35
+2,"has","been",46
+2,"have","a",49
+2,"have","to",48
+2,"have","been",47
+2,"he","is",45
+2,"he","said",40
+2,"he","was",43
+2,"he","will",36
+2,"her","a",25
+2,"her","own",28
+2,"here","is",42
+2,"here","we",39
+2,"him","a",24
+2,"his","own",31
+2,"how","about",44
+2,"how","are",48
+2,"how","can",41
+2,"how","do",46
+2,"how","is",43
+2,"how","to",47
+2,"i","am",49
+2,"i","can",48
+2,"i","cant",47
+2,"i","could",40
+2,"i","did",32
+2,"i","do",38
+2,"i","dont",49
+2,"i","feel",41
+2,"i","get",36
+2,"i","got",39
+2,"i","had",42
+2,"i","have",49
+2,"i","know",48
+2,"i","like",45
+2,"i","love",46
+2,"i","mean",37
+2,"i","need",44
+2,"i","see",35
+2,"i","should",39
+2,"i","think",48
+2,"i","want",47
+2,"i","was",49
+2,"i","will",48
+2,"i","would",46
+2,"if","i",42
+2,"if","it",38
+2,"if","not",33
+2,"if","you",49
+2,"im","going",48
+2,"im","not",47
+2,"im","so",45
+2,"im","sure",43
+2,"in","a",47
+2,"in","fact",42
+2,"in","my",48
+2,"in","order",44
+2,"in","the",49
+2,"into","the",46
+2,"is","a",48
+2,"is","it",42
+2,"is","not",47
+2,"is","that",40
+2,"is","the",49
+2,"is","this",38
+2,"it","is",49
+2,"it","was",48
+2,"it","will",43
+2,"its","a",49
+2,"its","all",41
+2,"its","not",47
+2,"its","time",39
+2,"just","a",45
+2,"just","in",33
+2,"just","kidding",38
+2,"just","like",40
+2,"just","one",31
+2,"keep","it",36
+2,"keep","up",39
+2,"kind","of",47
+2,"know","what",48
+2,"know","how",44
+2,"last","night",41
+2,"last","time",37
+2,"let","me",49
+2,"let","us",35
+2,"lets","go",46
+2,"like","a",43
+2,"like","that",40
+2,"like","to",48
+2,"long","ago",32
+2,"long","time",41
+2,"look","at",45
+2,"look","for",40
+2,"look","like",42
+2,"looking","for",47
+2,"looking","forward",49
+2,"lot","of",48
+2,"lots","of",44
+2,"made","a",36
+2,"made","it",33
+2,"make","a",41
+2,"make","it",43
+2,"make","sure",48
+2,"many","people",39
+2,"many","times",34
+2,"me","a",40
+2,"me","to",38
+2,"more","about",42
+2,"more","of",31
+2,"more","than",49
+2,"most","of",46
+2,"my","favorite",37
+2,"my","friend",35
+2,"my","life",40
+2,"my","name",43
+2,"my","own",32
+2,"need","a",38
+2,"need","to",49
+2,"never","mind",41
+2,"new","york",30
+2,"next","time",43
+2,"next","to",36
+2,"no","problem",47
+2,"no","way",39
+2,"not","a",42
+2,"not","be",35
+2,"not","even",38
+2,"not","going",45
+2,"not","only",46
+2,"not","sure",44
+2,"not","to",40
+2,"nothing","to",37
+2,"now","i",38
+2,"of","a",41
+2,"of","course",49
+2,"of","it",35
+2,"of","my",46
+2,"of","the",49
+2,"of","this",39
+2,"of","us",33
+2,"off","the",40
+2,"on","a",42
+2,"on","my",44
+2,"on","the",49
+2,"on","time",31
+2,"on","top",36
+2,"once","again",38
+2,"one","day",35
+2,"one","of",49
+2,"one","more",43
+2,"only","one",30
+2,"or","not",34
+2,"other","hand",39
+2,"other","people",37
+2,"our","own",32
+2,"out","of",49
+2,"out","there",36
+2,"over","and",38
+2,"over","here",31
+2,"over","there",35
+2,"over","the",47
+2,"part","of",48
+2,"people","are",39
+2,"people","who",36
+2,"per","cent",29
+2,"put","it",34
+2,"quite","a",30
+2,"rather","than",37
+2,"really","good",41
+2,"right","away",38
+2,"right","here",33
+2,"right","now",46
+2,"said","he",31
+2,"said","that",42
+2,"same","time",44
+2,"same","thing",40
+2,"see","it",32
+2,"see","you",48
+2,"she","is",46
+2,"she","was",44
+2,"should","be",42
+2,"should","i",35
+2,"so","i",40
+2,"so","it",36
+2,"so","many",45
+2,"so","much",49
+2,"some","of",43
+2,"some","people",39
+2,"some","time",37
+2,"something","else",41
+2,"soon","as",48
+2,"sorry","about",34
+2,"sorry","for",38
+2,"sounds","good",42
+2,"still","have",36
+2,"such","a",45
+2,"sure","about",33
+2,"take","a",47
+2,"take","care",45
+2,"take","it",41
+2,"tell","me",46
+2,"than","a",32
+2,"than","i",35
+2,"thank","you",49
+2,"thanks","for",47
+2,"that","i",45
+2,"that","is",49
+2,"that","it",43
+2,"that","was",46
+2,"that","we",41
+2,"thats","a",44
+2,"thats","all",35
+2,"thats","it",37
+2,"thats","not",40
+2,"thats","right",38
+2,"thats","why",42
+2,"the","first",47
+2,"the","last",40
+2,"the","most",45
+2,"the","next",43
+2,"the","only",41
+2,"the","other",46
+2,"the","same",44
+2,"the","way",48
+2,"the","world",39
+2,"their","own",33
+2,"them","a",28
+2,"then","i",39
+2,"there","are",47
+2,"there","is",48
+2,"there","was",45
+2,"these","are",40
+2,"they","are",48
+2,"they","can",36
+2,"they","have",41
+2,"they","were",44
+2,"thing","is",38
+2,"things","are",39
+2,"think","about",46
+2,"think","i",43
+2,"think","so",40
+2,"this","is",49
+2,"this","morning",41
+2,"this","time",44
+2,"this","week",38
+2,"those","who",32
+2,"through","the",45
+2,"time","for",40
+2,"time","to",48
+2,"to","a",42
+2,"to","be",49
+2,"to","do",47
+2,"to","get",45
+2,"to","go",46
+2,"to","have",43
+2,"to","make",44
+2,"to","me",41
+2,"to","my",40
+2,"to","see",45
+2,"to","the",49
+2,"to","you",48
+2,"too","much",46
+2,"try","to",44
+2,"turn","around",31
+2,"turn","it",30
+2,"under","the",39
+2,"up","to",42
+2,"up","with",38
+2,"us","a",30
+2,"use","the",37
+2,"used","to",45
+2,"very","good",44
+2,"very","much",47
+2,"very","well",41
+2,"want","a",36
+2,"want","to",49
+2,"was","a",47
+2,"was","going",43
+2,"was","not",45
+2,"was","the",42
+2,"we","are",48
+2,"we","can",46
+2,"we","could",38
+2,"we","have",45
+2,"we","need",43
+2,"we","should",40
+2,"we","were",42
+2,"we","will",41
+2,"well","as",46
+2,"went","to",40
+2,"were","not",38
+2,"what","a",41
+2,"what","are",48
+2,"what","do",47
+2,"what","i",45
+2,"what","is",49
+2,"what","to",44
+2,"what","you",48
+2,"when","i",46
+2,"when","it",40
+2,"when","you",47
+2,"where","are",45
+2,"where","is",43
+2,"which","is",42
+2,"who","are",39
+2,"who","is",36
+2,"will","be",48
+2,"will","have",37
+2,"will","not",40
+2,"with","a",45
+2,"with","me",43
+2,"with","the",49
+2,"with","you",47
+2,"without","a",38
+2,"work","on",34
+2,"would","be",46
+2,"would","like",48
+2,"years","ago",33
+2,"yes","i",30
+2,"you","are",49
+2,"you","can",48
+2,"you","could",39
+2,"you","do",41
+2,"you","dont",46
+2,"you","have",48
+2,"you","know",49
+2,"you","need",45
+2,"you","should",40
+2,"you","want",44
+2,"you","will",42
+2,"you","would",41
+2,"your","email",35
+2,"your","favorite",29
+2,"your","friends",33
+2,"your","help",38
+2,"your","life",31
+2,"your","name",36
+2,"your","own",34
+2,"your","time",42
+3,"a lot","of",47
+3,"a new","car",18
+3,"a new","job",23
+3,"a pair","of",33
+3,"a piece","of",41
+3,"a few","days ago",38
+3,"a few","more",35
+3,"a great","deal",29
+3,"a great","time",42
+3,"a little","bit",46
+3,"a long","time",45
+3,"a lot of","people",40
+3,"a lot of","things",37
+3,"all of","the",49
+3,"all of","us",36
+3,"all the","time",44
+3,"and i","am",42
+3,"and i","will",38
+3,"and so","on",35
+3,"and then","i",40
+3,"anything","else",45
+3,"are you","doing",48
+3,"are you","going",46
+3,"are you","sure",43
+3,"as far","as",41
+3,"as good","as",39
+3,"as long","as",47
+3,"as much","as",46
+3,"as soon","as possible",49
+3,"as well","as",48
+3,"at a","time",32
+3,"at all","times",28
+3,"at home","and",25
+3,"at least","a",39
+3,"at the","end",48
+3,"at the","moment",44
+3,"at the","same time",47
+3,"be able","to",48
+3,"be careful","with",29
+3,"because i","was",37
+3,"because it","is",40
+3,"because of","the",46
+3,"by the","end",34
+3,"by the","way",47
+3,"can i","get",45
+3,"can i","have",43
+3,"can we","do",31
+3,"can you","do",36
+3,"can you","help me",44
+3,"cant wait","to",49
+3,"could be","a",38
+3,"did you","get",35
+3,"did you","know",41
+3,"do not","know",45
+3,"do you","have",47
+3,"do you","know",46
+3,"do you","like",40
+3,"do you","mean",42
+3,"do you","need",44
+3,"do you","think",48
+3,"do you","want to",49
+3,"dont have","to",43
+3,"dont know","what",49
+3,"dont know","why",41
+3,"dont think","so",44
+3,"dont want","to",47
+3,"dont worry","about it",45
+3,"down the","road",33
+3,"each other","for",27
+3,"end of","the",49
+3,"even if","you",35
+3,"even though","i",38
+3,"every single","day",40
+3,"feel free","to",46
+3,"find out","what",41
+3,"first of","all",49
+3,"for a","few",38
+3,"for a","long time",42
+3,"for a","moment",35
+3,"for a","while",39
+3,"for example","the",37
+3,"for me","to",36
+3,"for the","first time",48
+3,"for the","most part",43
+3,"for your","help",41
+3,"for your","time",45
+3,"from the","beginning",39
+3,"from time","to time",40
+3,"get back","to",44
+3,"get ready","for",31
+3,"get rid","of",38
+3,"give me","a",45
+3,"go back","to",38
+3,"go to","the",47
+3,"going to","be",49
+3,"going to","do",45
+3,"going to","have",42
+3,"good to","see you",43
+3,"had to","be",34
+3,"has been","a",41
+3,"have a","good",49
+3,"have a","great",48
+3,"have a","nice",46
+3,"have to","be",45
+3,"have to","do",43
+3,"have you","been",46
+3,"have you","ever",42
+3,"he said","that",39
+3,"he was","a",36
+3,"he was","going",33
+3,"here we","go",41
+3,"how about","a",38
+3,"how are","you",49
+3,"how can","i",43
+3,"how do","i",41
+3,"how do","you",47
+3,"how is","it",39
+3,"how many","times",36
+3,"how much","is",40
+3,"how to","do",42
+3,"how to","get",38
+3,"i am","a",35
+3,"i am","going to",49
+3,"i am","not",47
+3,"i am","so",46
+3,"i am","sure",44
+3,"i can","do",38
+3,"i can","see",34
+3,"i cant","believe",47
+3,"i cant","do",36
+3,"i cant","help",39
+3,"i cant","wait to",49
+3,"i dont","care",37
+3,"i dont","have",44
+3,"i dont","know",49
+3,"i dont","like",40
+3,"i dont","think",48
+3,"i dont","understand",42
+3,"i dont","want",46
+3,"i feel","like",45
+3,"i get","it",33
+3,"i got","a",37
+3,"i have","a",48
+3,"i have","to",47
+3,"i have","no idea",45
+3,"i hope","you",46
+3,"i know","that",43
+3,"i know","what",47
+3,"i like","it",39
+3,"i like","to",41
+3,"i love","it",40
+3,"i love","you",48
+3,"i need","a",38
+3,"i need","to",47
+3,"i see","what",36
+3,"i think","i",40
+3,"i think","it",38
+3,"i think","so",42
+3,"i think","that",45
+3,"i want","to",49
+3,"i was","a",39
+3,"i was","going to",46
+3,"i was","just",43
+3,"i was","thinking",41
+3,"i will","be",45
+3,"i will","have",37
+3,"i will","not",34
+3,"i would","be",40
+3,"i would","like to",49
+3,"if i","were",36
+3,"if you","are",44
+3,"if you","can",41
+3,"if you","dont",43
+3,"if you","have",47
+3,"if you","like",38
+3,"if you","need",46
+3,"if you","want",45
+3,"im going","to",49
+3,"im not","sure",48
+3,"im so","glad",39
+3,"im so","sorry",43
+3,"in a","few",37
+3,"in a","minute",40
+3,"in a","way",34
+3,"in fact","i",36
+3,"in my","opinion",41
+3,"in order","to",48
+3,"in the","car",32
+3,"in the","end",43
+3,"in the","first place",40
+3,"in the","future",38
+3,"in the","house",35
+3,"in the","meantime",36
+3,"in the","middle",42
+3,"in the","morning",44
+3,"in the","world",41
+3,"is a","good",42
+3,"is going","to",40
+3,"is not","a",38
+3,"is not","going",36
+3,"is that","a",33
+3,"is the","best",39
+3,"is the","same",37
+3,"it is","a",46
+3,"it is","not",45
+3,"it seems","like",40
+3,"it was","a",48
+3,"it was","so",41
+3,"it will","be",44
+3,"its a","good",43
+3,"its a","great",41
+3,"its all","about",38
+3,"its going","to be",47
+3,"its not","a",42
+3,"its not","that",39
+3,"its time","to",41
+3,"just a","few",37
+3,"just a","little",43
+3,"just a","minute",45
+3,"just a","second",41
+3,"just like","that",36
+3,"just want","to",39
+3,"kind of","like",35
+3,"let me","know",49
+3,"let me","see",40
+3,"lets get","started",38
+3,"lets go","to",39
+3,"lets see","what",35
+3,"look at","the",43
+3,"looking forward","to",49
+3,"make sure","that",44
+3,"make sure","you",46
+3,"more than","a",37
+3,"more than","that",42
+3,"most of","the",47
+3,"my favorite","part",31
+3,"my favorite","thing",34
+3,"need to","be",40
+3,"need to","do",38
+3,"need to","go",36
+3,"no problem","at all",39
+3,"not going","to",41
+3,"not only","but also",45
+3,"not sure","if",42
+3,"not sure","what",40
+3,"of course","i",37
+3,"on the","floor",28
+3,"on the","other hand",47
+3,"on the","phone",34
+3,"on the","table",31
+3,"on the","way",46
+3,"on top","of",43
+3,"once upon","a time",39
+3,"one of","the",49
+3,"one of","my",46
+3,"out of","control",33
+3,"out of","my",31
+3,"out of","the",48
+3,"over and","over",40
+3,"over there","is",29
+3,"over the","years",36
+3,"part of","the",45
+3,"people who","are",32
+3,"plenty of","time",30
+3,"right now","i",37
+3,"see you","again",39
+3,"see you","later",46
+3,"see you","soon",43
+3,"see you","tomorrow",41
+3,"she is","a",38
+3,"she was","a",35
+3,"so much","for",47
+3,"so much","fun",41
+3,"some of","the",44
+3,"something to","do",36
+3,"soon as","i",39
+3,"soon as","possible",48
+3,"sorry for","the",40
+3,"sounds like","a",42
+3,"take a","break",35
+3,"take a","look",46
+3,"take a","picture",33
+3,"take care","of",48
+3,"tell me","about",43
+3,"tell me","what",41
+3,"thank you","for",49
+3,"thank you","so much",48
+3,"thank you","very much",45
+3,"thanks for","the",44
+3,"that i","can",36
+3,"that is","a",43
+3,"that is","to",39
+3,"that means","a",31
+3,"that was","a",42
+3,"thats a","good",45
+3,"thats what","i",41
+3,"thats why","i",38
+3,"the end","of",49
+3,"the first","time",47
+3,"the other","day",40
+3,"the other","side",34
+3,"the same","as",38
+3,"the same","thing",43
+3,"the way","i",39
+3,"the way","it",37
+3,"there are","a",41
+3,"there are","so many",43
+3,"there is","a",46
+3,"there is","no",44
+3,"there was","a",42
+3,"they are","not",38
+3,"they were","going",35
+3,"think about","it",45
+3,"this is","a",48
+3,"this is","my",43
+3,"this is","not",44
+3,"this is","the",46
+3,"this is","what",42
+3,"this time","of",38
+3,"to be","a",43
+3,"to be","able",41
+3,"to be","honest",45
+3,"to be","sure",39
+3,"to do","it",41
+3,"to do","that",43
+3,"to get","a",38
+3,"to get","the",40
+3,"to go","to",42
+3,"to make","a",40
+3,"to make","sure",44
+3,"to see","if",37
+3,"to see","you",46
+3,"to tell","you",41
+3,"up to","you",37
+3,"used to","be",42
+3,"want to","be",39
+3,"want to","do",38
+3,"want to","go",41
+3,"want to","know",43
+3,"want to","see",40
+3,"was going","to",45
+3,"we are","going to",48
+3,"we can","do",37
+3,"we have","a",42
+3,"we have","to",44
+3,"we need","to",46
+3,"what are","you doing",49
+3,"what are","you talking about",47
+3,"what do","you",49
+3,"what i","mean",39
+3,"what is","the",47
+3,"what is","your",45
+3,"what you","want",41
+3,"when i","was",45
+3,"when you","are",43
+3,"where are","you",46
+3,"where is","the",44
+3,"will be","a",41
+3,"will be","back",35
+3,"with a","little",34
+3,"with you","and",32
+3,"would be","a",40
+3,"would be","great",43
+3,"would like","to",49
+3,"you are","a",41
+3,"you are","going to",48
+3,"you are","not",43
+3,"you are","so",40
+3,"you can","do",42
+3,"you can","find",36
+3,"you dont","have to",45
+3,"you have","a",44
+3,"you have","to",46
+3,"you know","what",48
+3,"you know","what i mean",46
+3,"you need","to",47
+3,"your favorite","color",27
+4,"a couple of","times",34
+4,"a matter of","fact",46
+4,"a waste of","time",39
+4,"all of a","sudden",28
+4,"all you have","to do",41
+4,"are you going","to",45
+4,"as far as","i know",42
+4,"as long as","you",39
+4,"as soon as","i can",41
+4,"as soon as","possible",49
+4,"at the end","of the day",48
+4,"at the same","time",44
+4,"be able to","do",38
+4,"by the way","i",35
+4,"can i help","you",43
+4,"can you tell","me",41
+4,"cant wait to","see you",49
+4,"do you know","what",45
+4,"do you think","about",43
+4,"do you want","to",47
+4,"dont know what","to do",46
+4,"dont worry about","it",42
+4,"end of the","day",47
+4,"feel free to","contact me",44
+4,"for a long","time",38
+4,"for the first","time",46
+4,"for the rest","of",39
+4,"get back to","me",37
+4,"going to be","a",44
+4,"have a good","day",47
+4,"have a great","day",45
+4,"have a nice","day",46
+4,"have to do","it",35
+4,"have you ever","been",39
+4,"hope to see","you soon",40
+4,"hope you are","doing well",44
+4,"how are you","doing",48
+4,"how do you","do",36
+4,"how do you","know",40
+4,"how do you","spell",34
+4,"i am going","to",48
+4,"i am so","happy",38
+4,"i am so","sorry",42
+4,"i cant believe","it",45
+4,"i cant wait","to see you",49
+4,"i dont have","any",37
+4,"i dont know","what",48
+4,"i dont know","if",44
+4,"i dont think","so",43
+4,"i dont want","to",46
+4,"i have a","question",41
+4,"i have to","go",40
+4,"i have no","idea",43
+4,"i hope you","are well",39
+4,"i hope you","have a",42
+4,"i just want","to",38
+4,"i look forward","to hearing from you",47
+4,"i want to","be",36
+4,"i want to","know",40
+4,"i was going","to",43
+4,"i was just","wondering",41
+4,"i will be","there",38
+4,"i would like","to",49
+4,"if you have","any questions",47
+4,"if you need","anything",44
+4,"if you want","to",42
+4,"im looking forward","to",46
+4,"im not sure","if",44
+4,"im so sorry","for",38
+4,"in the middle","of",43
+4,"in the near","future",36
+4,"in the first","place",39
+4,"is going to","be",42
+4,"it was a","pleasure",40
+4,"it was nice","to meet you",45
+4,"its going to","be",46
+4,"its not a","big deal",37
+4,"just a little","bit",41
+4,"let me know","if",48
+4,"let me know","what",45
+4,"looking forward to","hearing from you",49
+4,"make sure you","are",39
+4,"nice to meet","you",44
+4,"of course i","will",34
+4,"on the other","hand",47
+4,"one of my","favorite",44
+4,"one of the","best",42
+4,"one of the","most",45
+4,"out of the","blue",31
+4,"out of the","office",40
+4,"see you later","alligator",25
+4,"sooner or","later",33
+4,"take care of","yourself",46
+4,"thank you for","your",48
+4,"thank you so","much",47
+4,"thanks for your","help",41
+4,"thats a good","idea",43
+4,"the end of","the",48
+4,"the first time","i",37
+4,"the other side","of",31
+4,"the rest of","the",41
+4,"there is no","doubt",36
+4,"there is no","way",40
+4,"this is not","the",38
+4,"to be honest","i",41
+4,"to make sure","that",42
+4,"want to know","more",35
+4,"we are going","to",46
+4,"we need to","talk",39
+4,"what are you","doing",49
+4,"what are you","up to",43
+4,"what do you","do",41
+4,"what do you","mean",46
+4,"what do you","think",48
+4,"what is your","name",42
+4,"when i was","a kid",37
+4,"where are you","from",40
+4,"where do you","want to go",38
+4,"would like to","know",41
+4,"would like to","thank",39
+4,"you are going","to",45
+4,"you have to","be",41
+4,"you know what","i mean",45
+4,"you need to","be",39
+4,"you want to","be",35
+4,"at the end of","the day",49
+4,"as a matter of","fact",48
+4,"for the time","being",35
+4,"i have a feeling","that",32
+4,"in case you","didnt know",29
+4,"in my humble","opinion",33
+4,"its a matter","of time",37
+4,"just in case","you",36
+4,"on top of","that",40
+4,"thank you in","advance",42
+4,"the fact of","the matter",34
+4,"to make a long","story short",41
+4,"what in the","world",30
+4,"you know what im","saying",38
