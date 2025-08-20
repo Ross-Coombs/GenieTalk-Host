@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "GenieUI",
   "resources": {
-    "hash": "sha256-MwFnCfi/BUzXglqBwParyTR9qoIG21pmLr/wUrwuMKE=",
+    "hash": "sha256-JW4BTnKGRrx0suCJaRit+VFZNrGqvlqkoSGD1LAtR3Y=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-YyxJV6dv935qHoQAmjB+2qRjHeGpm4SyWxE0T/KvsIE="
     },
@@ -18,9 +18,9 @@
     },
     "coreAssembly": {},
     "assembly": {
-      "GenieCore.wasm": "sha256-Y/oAOSNEi/1iOo+nquK6JRYeYTyvLpEtyXCxj3SN+QM=",
-      "GenieTests.wasm": "sha256-gPUwbpdJMRkzGgFv/LaO3KwzXsAw3tOIvwnoYIPj/ps=",
-      "GenieUI.wasm": "sha256-L0gT1B5SjhoTQ727si8igNps1zPlsh4lbOmhIr7Gdrc=",
+      "GenieCore.wasm": "sha256-XsptANuBenx/HQ4Y6Qj00vxNRiqWVpXrsh4Ogl0Yo14=",
+      "GenieTests.wasm": "sha256-PpwXUc2mBfEI4VFX+cWIaMrtDP0wCUFCGqzEcmVKUYo=",
+      "GenieUI.wasm": "sha256-XYF4XxEzk2AP/+odJivaEq9u4+qAwyPxgyG28L6x9nI=",
       "Microsoft.AspNetCore.Components.wasm": "sha256-CaBP26CeM+rXabIM6AiRNlsuW4hGQc0cnbWkhE/HxSI=",
       "Microsoft.AspNetCore.Components.Web.wasm": "sha256-+oMbTZaJjmwTt0rCbDvyUFXlbi9ilFCxckc03xctV2E=",
       "Microsoft.AspNetCore.Components.WebAssembly.wasm": "sha256-ns7dhoTaHQZomfkC7UEo9SUyvApHtOJfRZDYpQe3pis=",

@@ -5,6 +5,12 @@ html, body {
     padding: 0;
 }
 
+@media (max-height: 630px) {
+    body {
+        font-size: 0.8em;
+    }
+}
+
 h1:focus {
     outline: none;
 }
